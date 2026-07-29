@@ -1,17 +1,17 @@
 {
-  "name": "weaving-chaos",
-  "displayName": "Weaving Chaos - Textile Weaver",
-  "description": "🧵 A VS Code theme where code meets the loom. Inspired by natural textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
-  "version": "1.0.2",
+  "name": "neon-loom",
+  "displayName": "Neon Loom",
+  "description": "⚡ A glowing VS Code theme where electric threads weave through a digital loom. Inspired by textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
+  "version": "1.0.3",
   "publisher": "reyrove",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reyrove/textile-weaver"
+    "url": "https://github.com/reyrove/neon-loom-vscode-theme"
   },
-  "homepage": "https://github.com/reyrove/textile-weaver#readme",
+  "homepage": "https://github.com/reyrove/neon-loom-vscode-theme#readme",
   "bugs": {
-    "url": "https://github.com/reyrove/textile-weaver/issues"
+    "url": "https://github.com/reyrove/neon-loom-vscode-theme/issues"
   },
   "engines": {
     "vscode": "^1.74.0"
@@ -20,19 +20,19 @@
     "Themes"
   ],
   "keywords": [
+    "neon",
+    "glow",
+    "loom",
     "textile",
     "weaving",
-    "knitting",
-    "fabric",
-    "generative art",
+    "electric",
+    "dark theme",
     "creative coding",
+    "generative art",
     "p5.js",
     "design",
     "art",
-    "dark theme",
     "colorful",
-    "woven",
-    "loom",
     "thread",
     "yarn",
     "textile engineer",
@@ -42,9 +42,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Weaving Chaos - Textile Weaver",
+        "label": "Neon Loom",
         "uiTheme": "vs-dark",
-        "path": "./themes/textile-weaver-color-theme.json"
+        "path": "./themes/neon-loom-color-theme.json"
       }
     ]
   },
