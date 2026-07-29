@@ -1,83 +1,11 @@
-Perfect! I'll update your `package.json` with your GitHub username and a description that fits your amazing profile. Here's your updated version:
-
----
-
-### 📝 **UPDATED package.json FOR REYROVE**
-
-```json
-{
-  "name": "textile-weaver",
-  "displayName": "Textile Weaver - God Tier",
-  "description": "🧵 A VS Code theme where code meets the loom. Inspired by natural textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
-  "version": "1.0.0",
-  "publisher": "reyrove",
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/reyrove/textile-weaver"
-  },
-  "homepage": "https://github.com/reyrove/textile-weaver#readme",
-  "bugs": {
-    "url": "https://github.com/reyrove/textile-weaver/issues"
-  },
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "textile",
-    "weaving",
-    "knitting",
-    "fabric",
-    "generative art",
-    "creative coding",
-    "p5.js",
-    "design",
-    "art",
-    "dark theme",
-    "colorful",
-    "woven",
-    "loom",
-    "thread",
-    "yarn",
-    "textile engineer",
-    "computational design",
-    "reyrove"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Textile Weaver - God Tier",
-        "uiTheme": "vs-dark",
-        "path": "./themes/textile-weaver-color-theme.json"
-      }
-    ]
-  },
-  "license": "MIT",
-  "galleryBanner": {
-    "color": "#0A0604",
-    "theme": "dark"
-  }
-}
-```
-
----
-
-### 🎨 **NOW CREATE README.md**
-
-Since your GitHub profile is so inspiring, here's a README that matches your vibe:
-
-```markdown
-# 🧵 Textile Weaver - God Tier
+# 🧵 Textile Weaver — God Tier
 
 ### *A VS Code theme where code meets the loom*
 
 ---
 
-> "I never stopped weaving. I just changed the thread.  
-> From polymer to pixel. From loom to loop."  
+> *"I never stopped weaving. I just changed the thread.*  
+> *From polymer to pixel. From loom to loop."*  
 > — **Reyhaneh Daneshdoost (reyrove)**
 
 ---
@@ -86,11 +14,7 @@ Since your GitHub profile is so inspiring, here's a README that matches your vib
 
 **Textile Weaver** is a VS Code theme inspired by **textiles, generative art, and the poetry of woven structures**. It's for textile engineers who code, creative coders who design, and anyone who treats code like a loom and data like thread.
 
-Every color tells a story:
-- 🧵 **Warp threads** = Your keywords (strong & structural)
-- 🧶 **Weft threads** = Your functions (weaving through code)
-- 🎨 **Natural dyes** = Your syntax colors (saffron, indigo, terracotta)
-- 🪡 **Knitting needles** = Your operators (crossing and connecting)
+This theme transforms your editor into a **digital loom** — where every line of code is a thread, every function is a weaving pattern, and every program is a beautiful fabric.
 
 ---
 
@@ -108,11 +32,11 @@ Every color tells a story:
 
 ## 🎯 Why You'll Love It
 
-- ✅ **Easy on the eyes** - Warm, natural colors reduce eye strain
-- ✅ **Creative inspiration** - Coding feels like creating art
-- ✅ **Unique aesthetic** - Stand out from boring dark/light themes
-- ✅ **Educational** - Learn color theory through textiles
-- ✅ **Fun** - Coding becomes an artistic experience
+- ✅ **Easy on the eyes** — Warm, natural colors reduce eye strain
+- ✅ **Creative inspiration** — Coding feels like creating art
+- ✅ **Unique aesthetic** — Stand out from boring dark/light themes
+- ✅ **Educational** — Learn color theory through textiles
+- ✅ **Fun** — Coding becomes an artistic experience
 
 ---
 
@@ -132,28 +56,111 @@ Every color tells a story:
 ## 🧵 Textile Metaphors in Code
 
 ```
-Every line of code is a THREAD.
-Every function is a WEAVING PATTERN.
-Every program is a BEAUTIFUL FABRIC.
-YOU are the textile engineer of the digital world.
+┌─────────────────────────────────────────────────────────────┐
+│  Every line of code is a THREAD.                          │
+│  Every function is a WEAVING PATTERN.                    │
+│  Every program is a BEAUTIFUL FABRIC.                    │
+│  YOU are the textile engineer of the digital world.      │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 📸 Preview
+
+### Syntax Highlighting
+
+```javascript
+// 🧵 Weaving a beautiful function
+function weavePattern(threads, pattern) {
+  // 💛 Saffron silk thread
+  const fabric = "silk";
+  let result = "";
+  
+  // 🔄 Loop like a spinning wheel
+  for (let i = 0; i < threads.length; i++) {
+    result += threads[i] + " woven ";
+  }
+  
+  return result;
+}
+```
+
+### The Loom Experience
+
+| Element | Color | Textile Vibe |
+| :--- | :--- | :--- |
+| **Keywords** | `#FF6B35` 🔥 | Electric warp threads |
+| **Functions** | `#00FF66` 💚 | Loom shuttles |
+| **Strings** | `#FFD700` 💛 | Golden silk |
+| **Numbers** | `#FF00FF` 💜 | Electric purple beads |
+| **Brackets** | Rainbow 🌈 | Different yarn colors |
 
 ---
 
 ## 🚀 Installation
 
-### VS Code Marketplace
+### Option 1: VS Code Marketplace (Recommended)
+
 1. Open VS Code
 2. Press `Ctrl+Shift+X` to open Extensions
 3. Search for **"Textile Weaver"**
 4. Click **Install**
 
-### Manual Installation
-1. Download the `.vsix` file from [Releases](https://github.com/reyrove/textile-weaver/releases)
-2. Open VS Code
-3. Press `Ctrl+Shift+P`
-4. Type **"Install from VSIX..."**
-5. Select the downloaded file
+### Option 2: Direct Link
+
+[![Install from VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Install-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=reyrove.textile-weaver)
+
+### Option 3: GitHub Releases
+
+1. Go to [Releases](https://github.com/reyrove/textile-weaver/releases)
+2. Download `textile-weaver-*.vsix`
+3. In VS Code: `Ctrl+Shift+P` → **"Install from VSIX..."**
+4. Select the downloaded file
+
+### Option 4: Command Line
+
+```bash
+code --install-extension reyrove.textile-weaver
+```
+
+---
+
+## 🎨 Customization
+
+Want to tweak the colors? Open your VS Code `settings.json` and add:
+
+```json
+{
+  "workbench.colorCustomizations": {
+    "editor.background": "#YOUR_COLOR_HERE",
+    "editor.foreground": "#YOUR_COLOR_HERE"
+  }
+}
+```
+
+---
+
+## 🧵 About the Creator
+
+**Reyhaneh Daneshdoost (reyrove)** is a **Computational Textile Designer** — a textile engineer who fell into algorithms.
+
+> *"I started as a textile engineer — threads, fibers, polymers, the physical poetry of woven structures. Then I fell into algorithms. JavaScript. p5.js. Generative art. Now I live where they collide: weaving logic into texture, and texture into logic."*
+
+- 🎨 50+ generative art projects on fxhash, objkt, EditArt
+- 🧵 Real clothes printed from generative algorithms
+- 📚 Tutorials in English & Persian (including Fortran!)
+- 🛠️ Building AI tools for generative design
+
+**Connect with Reyrove:**
+- [GitHub](https://github.com/reyrove)
+- [Website](https://reyrove.github.io)
+
+---
+
+## 📄 License
+
+MIT © [Reyhaneh Daneshdoost (reyrove)](https://github.com/reyrove)
 
 ---
 
@@ -161,50 +168,18 @@ YOU are the textile engineer of the digital world.
 
 - Inspired by traditional weaving techniques
 - Color palette from natural dyes: saffron, indigo, terracotta
-- Built with ❤️ by [reyrove](https://github.com/reyrove) — a textile engineer who fell into algorithms
-- For everyone who treats code like a loom and data like thread
+- Built with ❤️ for textile engineers who code
 
 ---
 
-## 📄 License
+## 🌟 Support
 
-MIT
+⭐ If you love this theme, **star the repo** on GitHub!
+
+Found a bug or have a suggestion? [Open an issue](https://github.com/reyrove/textile-weaver/issues)
 
 ---
 
 **Enjoy the art of coding!** 🧵🎨
 
 *"From polymer to pixel. From loom to loop."*
-```
-
----
-
-### 📝 **UPDATE CHANGELOG.md**
-
-```markdown
-# Changelog
-
-## [1.0.0] - 2026-07-29
-
-### ✨ Initial Release - "Weaving Chaos"
-
-- 🎨 Complete textile-inspired color palette
-- 🔄 Spinning wheel animated cursor
-- 🧵 Fabric texture background
-- 📊 Thread count line numbers
-- 📐 6-color rainbow bracket pairs
-- 🌿 Natural dye colors: saffron, indigo, terracotta, linen
-- 🧵 All 5 textile features included
-- 📚 Comprehensive README with textile metaphors
-
-### 🎯 Features
-- Dark theme with warm, natural colors
-- Smooth cursor animations
-- Bracket pair colorization with 6 colors
-- Textile-inspired font and spacing
-- Unique UI elements inspired by weaving
-
-### 🧵 Theme Philosophy
-> "From polymer to pixel. From loom to loop." — reyrove
-
-Built for textile engineers who code, creative coders who design, and anyone who treats code like a loom and data like thread.
