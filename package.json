@@ -1,0 +1,56 @@
+{
+  "name": "textile-weaver",
+  "displayName": "Textile Weaver - God Tier",
+  "description": "🧵 A VS Code theme where code meets the loom. Inspired by natural textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
+  "version": "1.0.0",
+  "publisher": "reyrove",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reyrove/textile-weaver"
+  },
+  "homepage": "https://github.com/reyrove/textile-weaver#readme",
+  "bugs": {
+    "url": "https://github.com/reyrove/textile-weaver/issues"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "textile",
+    "weaving",
+    "knitting",
+    "fabric",
+    "generative art",
+    "creative coding",
+    "p5.js",
+    "design",
+    "art",
+    "dark theme",
+    "colorful",
+    "woven",
+    "loom",
+    "thread",
+    "yarn",
+    "textile engineer",
+    "computational design",
+    "reyrove"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Textile Weaver - God Tier",
+        "uiTheme": "vs-dark",
+        "path": "./themes/textile-weaver-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#0A0604",
+    "theme": "dark"
+  }
+}
