@@ -1,8 +1,8 @@
 {
-  "name": "textile-weaver",
-  "displayName": "Textile Weaver - God Tier",
+  "name": "weaving-chaos",
+  "displayName": "Weaving Chaos - Textile Weaver",
   "description": "🧵 A VS Code theme where code meets the loom. Inspired by natural textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "reyrove",
   "icon": "icon.png",
   "repository": {
@@ -42,7 +42,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Textile Weaver - God Tier",
+        "label": "Weaving Chaos - Textile Weaver",
         "uiTheme": "vs-dark",
         "path": "./themes/textile-weaver-color-theme.json"
       }

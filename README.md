@@ -1,4 +1,4 @@
-# 🧵 Textile Weaver — God Tier
+# 🧵 Weaving Chaos - Textile Weaver
 
 ### *A VS Code theme where code meets the loom*
 
