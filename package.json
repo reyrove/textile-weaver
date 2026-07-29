@@ -4,7 +4,7 @@
   "description": "⚡ A glowing VS Code theme where electric threads weave through a digital loom. Inspired by textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
   "version": "1.0.3",
   "publisher": "reyrove",
-  "icon": "icon.png",
+  "icon": "icon.ico",
   "repository": {
     "type": "git",
     "url": "https://github.com/reyrove/neon-loom-vscode-theme"
