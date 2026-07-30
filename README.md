@@ -1,6 +1,6 @@
-# ⚡ Neon Loom
+# ✨ Lucent
 
-### *A glowing VS Code theme where electric threads weave through a digital loom*
+### *A luminous VS Code theme where light weaves through code*
 
 ---
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 🎨 What is Neon Loom?
+## 🌟 What is Lucent?
 
-**Neon Loom** is a VS Code theme inspired by **textiles, generative art, and the poetry of woven structures** — with an electric, glowing twist. It's for textile engineers who code, creative coders who design, and anyone who treats code like a loom and data like thread.
+**Lucent** (meaning *"glowing with light"*) is a VS Code theme inspired by **textiles, generative art, and the poetry of luminous structures** — with a soft, glowing twist. It's for textile engineers who code, creative coders who design, and anyone who treats code like a loom and light like thread.
 
-This theme transforms your editor into a **digital loom** — where every line of code is an electric thread, every function is a weaving pattern, and every program is a glowing fabric.
+This theme transforms your editor into a **digital loom of light** — where every line of code is a luminous thread, every function is a weaving pattern, and every program is a glowing fabric.
 
 ---
 
@@ -23,33 +23,33 @@ This theme transforms your editor into a **digital loom** — where every line o
 | Feature | Description |
 | :--- | :--- |
 | 🔄 **Spinning Wheel Cursor** | Smooth, animated cursor that feels like a spinning wheel |
-| 🧵 **Fabric Texture Background** | Woven texture feel in the editor |
+| 🧵 **Luminous Texture Background** | Soft, glowing texture feel in the editor |
 | 📊 **Thread Count Display** | Line numbers show your "thread count" |
 | 📐 **Knitting Pattern Guides** | Rainbow bracket pairs like different yarn colors |
-| 🎨 **Glowing Neon Palette** | Electric orange, cyan, purple, lime green, and gold |
+| 🎨 **Lucent Glow Palette** | Soft orange, cyan, purple, lime green, and gold |
 
 ---
 
 ## 🎯 Why You'll Love It
 
-- ✅ **Easy on the eyes** — Warm, glowing colors reduce eye strain
-- ✅ **Creative inspiration** — Coding feels like creating neon art
-- ✅ **Unique aesthetic** — Stand out with electric textile vibes
+- ✅ **Easy on the eyes** — Soft, luminous colors reduce eye strain
+- ✅ **Creative inspiration** — Coding feels like weaving with light
+- ✅ **Unique aesthetic** — Stand out with luminous textile vibes
 - ✅ **Educational** — Learn color theory through glowing textiles
-- ✅ **Fun** — Coding becomes an immersive experience
+- ✅ **Calming** — The soft glow creates a peaceful coding environment
 
 ---
 
-## 🎨 Glowing Neon Palette
+## 🎨 Lucent Glow Palette
 
 | Color | Hex | Inspiration |
 | :--- | :--- | :--- |
-| 🔥 Electric Thread | `#FF6B35` | Glowing orange warp yarn |
-| 💙 Neon Indigo | `#00E5FF` | Electric cyan weft |
-| 💛 Golden Silk | `#FFD700` | Luminous silk thread |
-| 💜 Electric Purple | `#FF00FF` | Neon purple beads |
-| 💚 Lime Green | `#00FF66` | Glowing shuttle |
-| 🌿 Warm Linen | `#F0E6D8` | Soft, readable text |
+| 🔥 Luminous Thread | `#FF6B35` | Glowing orange warp yarn |
+| 💙 Lucent Indigo | `#00E5FF` | Electric cyan weft |
+| 💛 Golden Light | `#FFD700` | Luminous silk thread |
+| 💜 Lucent Purple | `#FF00FF` | Glowing purple beads |
+| 💚 Lime Light | `#00FF66` | Glowing shuttle |
+| 🌿 Soft Linen | `#F0E6D8` | Soft, readable text |
 
 ---
 
@@ -57,7 +57,7 @@ This theme transforms your editor into a **digital loom** — where every line o
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Every line of code is an ELECTRIC THREAD.                │
+│  Every line of code is a LUMINOUS THREAD.                 │
 │  Every function is a WEAVING PATTERN.                    │
 │  Every program is a GLOWING FABRIC.                      │
 │  YOU are the textile engineer of the digital world.      │
@@ -73,7 +73,7 @@ This theme transforms your editor into a **digital loom** — where every line o
 ```javascript
 // 🧵 Weaving a glowing function
 function weavePattern(threads, pattern) {
-  // 💛 Golden silk thread
+  // 💛 Golden light thread
   const fabric = "silk";
   let result = "";
   
@@ -90,10 +90,10 @@ function weavePattern(threads, pattern) {
 
 | Element | Color | Vibe |
 | :--- | :--- | :--- |
-| **Keywords** | `#FF6B35` 🔥 | Electric warp threads |
+| **Keywords** | `#FF6B35` 🔥 | Luminous warp threads |
 | **Functions** | `#00FF66` 💚 | Glowing shuttles |
-| **Strings** | `#FFD700` 💛 | Luminous silk |
-| **Numbers** | `#FF00FF` 💜 | Neon beads |
+| **Strings** | `#FFD700` 💛 | Golden light silk |
+| **Numbers** | `#FF00FF` 💜 | Lucent beads |
 | **Brackets** | Rainbow 🌈 | Different glowing yarn colors |
 
 ---
@@ -104,24 +104,24 @@ function weavePattern(threads, pattern) {
 
 1. Open VS Code
 2. Press `Ctrl+Shift+X` to open Extensions
-3. Search for **"Neon Loom"**
+3. Search for **"Lucent"**
 4. Click **Install**
 
 ### Option 2: Direct Link
 
-[![Install from VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Install-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=reyrove.neon-loom)
+[![Install from VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Install-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=reyrove.lucent)
 
 ### Option 3: GitHub Releases
 
-1. Go to [Releases](https://github.com/reyrove/neon-loom-vscode-theme/releases)
-2. Download `neon-loom-*.vsix`
+1. Go to [Releases](https://github.com/reyrove/lucent-vscode-theme/releases)
+2. Download `lucent-*.vsix`
 3. In VS Code: `Ctrl+Shift+P` → **"Install from VSIX..."**
 4. Select the downloaded file
 
 ### Option 4: Command Line
 
 ```bash
-code --install-extension reyrove.neon-loom
+code --install-extension reyrove.lucent
 ```
 
 ---
@@ -167,7 +167,7 @@ MIT © [Reyhaneh Daneshdoost (reyrove)](https://github.com/reyrove)
 ## 🙏 Credits
 
 - Inspired by traditional weaving techniques
-- Glowing neon palette from electric threads and natural dyes
+- Lucent glow palette from light, electric threads, and natural dyes
 - Built with ❤️ for textile engineers who code
 
 ---
@@ -176,10 +176,10 @@ MIT © [Reyhaneh Daneshdoost (reyrove)](https://github.com/reyrove)
 
 ⭐ If you love this theme, **star the repo** on GitHub!
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/reyrove/neon-loom-vscode-theme/issues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/reyrove/lucent-vscode-theme/issues)
 
 ---
 
-**Enjoy the art of glowing code!** ⚡🧵🎨
+**Enjoy the art of glowing code!** ✨🧵🎨
 
 *"From polymer to pixel. From loom to loop."*

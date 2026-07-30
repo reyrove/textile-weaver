@@ -1,5 +1,5 @@
 {
-  "name": "Neon Loom",
+  "name": "Lucent",
   "type": "dark",
   "colors": {
     "editor.background": "#0A0604",
@@ -89,7 +89,7 @@
   },
   "tokenColors": [
     {
-      "name": "Comments - Calm Indigo",
+      "name": "Comments - Soft Indigo",
       "scope": "comment",
       "settings": {
         "foreground": "#6A8D92",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "Keywords - Electric Thread",
+      "name": "Keywords - Luminous Thread",
       "scope": "keyword",
       "settings": {
         "foreground": "#FF6B35",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "name": "Keywords Control - Neon Indigo",
+      "name": "Keywords Control - Lucent Indigo",
       "scope": "keyword.control",
       "settings": {
         "foreground": "#00E5FF",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "name": "Strings - Golden Silk",
+      "name": "Strings - Golden Light",
       "scope": "string",
       "settings": {
         "foreground": "#FFD700"
@@ -128,7 +128,7 @@
       }
     },
     {
-      "name": "Numbers - Electric Purple",
+      "name": "Numbers - Lucent Purple",
       "scope": "constant.numeric",
       "settings": {
         "foreground": "#FF00FF"
@@ -150,7 +150,7 @@
       }
     },
     {
-      "name": "Variables - Raw Linen",
+      "name": "Variables - Soft Linen",
       "scope": "variable",
       "settings": {
         "foreground": "#F0E6D8"
@@ -210,14 +210,14 @@
       }
     },
     {
-      "name": "Support Functions - Neon Indigo",
+      "name": "Support Functions - Lucent Indigo",
       "scope": "support.function",
       "settings": {
         "foreground": "#00E5FF"
       }
     },
     {
-      "name": "Support Classes - Electric Crimson",
+      "name": "Support Classes - Luminous Crimson",
       "scope": "support.class",
       "settings": {
         "foreground": "#FF6B35"
@@ -397,7 +397,7 @@
       }
     },
     {
-      "name": "Textile - Fabric Texture",
+      "name": "Textile - Luminous Texture",
       "scope": "textile.fabric",
       "settings": {
         "foreground": "#F0E6D8",

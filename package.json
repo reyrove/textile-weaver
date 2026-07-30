@@ -1,17 +1,17 @@
 {
-  "name": "neon-loom",
-  "displayName": "Neon Loom",
-  "description": "⚡ A glowing VS Code theme where electric threads weave through a digital loom. Inspired by textiles, generative art, and the poetry of woven structures—for textile engineers who code.",
+  "name": "lucent",
+  "displayName": "Lucent",
+  "description": "A luminous VS Code theme where light weaves through code. Inspired by textiles, generative art, and the poetry of glowing structures—for textile engineers who code.",
   "version": "1.0.4",
   "publisher": "reyrove",
   "icon": "icon.ico",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reyrove/neon-loom-vscode-theme"
+    "url": "https://github.com/reyrove/lucent-vscode-theme"
   },
-  "homepage": "https://github.com/reyrove/neon-loom-vscode-theme#readme",
+  "homepage": "https://github.com/reyrove/lucent-vscode-theme#readme",
   "bugs": {
-    "url": "https://github.com/reyrove/neon-loom-vscode-theme/issues"
+    "url": "https://github.com/reyrove/lucent-vscode-theme/issues"
   },
   "engines": {
     "vscode": "^1.74.0"
@@ -20,8 +20,10 @@
     "Themes"
   ],
   "keywords": [
-    "neon",
+    "lucent",
+    "luminous",
     "glow",
+    "light",
     "loom",
     "textile",
     "weaving",
@@ -42,9 +44,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neon Loom",
+        "label": "Lucent",
         "uiTheme": "vs-dark",
-        "path": "./themes/neon-loom-color-theme.json"
+        "path": "./themes/lucent-color-theme.json"
       }
     ]
   },
