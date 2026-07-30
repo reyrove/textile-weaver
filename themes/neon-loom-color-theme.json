@@ -1,5 +1,5 @@
 {
-  "name": "✨ Textile Weaver - Teaching Edition ✨",
+  "name": "Neon Loom",
   "type": "dark",
   "colors": {
     "editor.background": "#0A0604",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "Keywords - 🔥 Electric Thread",
+      "name": "Keywords - Electric Thread",
       "scope": "keyword",
       "settings": {
         "foreground": "#FF6B35",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "name": "Keywords Control - 💙 Indigo Weave",
+      "name": "Keywords Control - Neon Indigo",
       "scope": "keyword.control",
       "settings": {
         "foreground": "#00E5FF",
@@ -113,14 +113,14 @@
       }
     },
     {
-      "name": "Strings - 💛 Golden Silk",
+      "name": "Strings - Golden Silk",
       "scope": "string",
       "settings": {
         "foreground": "#FFD700"
       }
     },
     {
-      "name": "Strings Escape - 🔥 Glowing Thread",
+      "name": "Strings Escape - Glowing Thread",
       "scope": "string.escape",
       "settings": {
         "foreground": "#FF6B35",
@@ -128,14 +128,14 @@
       }
     },
     {
-      "name": "Numbers - 💜 Electric Purple",
+      "name": "Numbers - Electric Purple",
       "scope": "constant.numeric",
       "settings": {
         "foreground": "#FF00FF"
       }
     },
     {
-      "name": "Functions - 💚 Loom Shuttle",
+      "name": "Functions - Loom Shuttle",
       "scope": "entity.name.function",
       "settings": {
         "foreground": "#00FF66",
@@ -143,28 +143,28 @@
       }
     },
     {
-      "name": "Function Calls - 🧵 Weaving Pattern",
+      "name": "Function Calls - Weaving Pattern",
       "scope": "meta.function-call",
       "settings": {
         "foreground": "#00E5FF"
       }
     },
     {
-      "name": "Variables - 🌾 Raw Linen",
+      "name": "Variables - Raw Linen",
       "scope": "variable",
       "settings": {
         "foreground": "#F0E6D8"
       }
     },
     {
-      "name": "Variable Other - 🧶 Dyed Yarn",
+      "name": "Variable Other - Dyed Yarn",
       "scope": "variable.other",
       "settings": {
         "foreground": "#FF6B35"
       }
     },
     {
-      "name": "Types - 💛 Golden Weave",
+      "name": "Types - Golden Weave",
       "scope": "entity.name.type",
       "settings": {
         "foreground": "#FFD700",
@@ -172,7 +172,7 @@
       }
     },
     {
-      "name": "Classes - 🔥 Loom Pattern",
+      "name": "Classes - Loom Pattern",
       "scope": "entity.name.class",
       "settings": {
         "foreground": "#FF6B35",
@@ -180,7 +180,7 @@
       }
     },
     {
-      "name": "Operators - 🪡 Knitting Needles",
+      "name": "Operators - Knitting Needles",
       "scope": "operator",
       "settings": {
         "foreground": "#FF6B35",
@@ -188,21 +188,21 @@
       }
     },
     {
-      "name": "Punctuation - 🪵 Wooden Beads",
+      "name": "Punctuation - Wooden Beads",
       "scope": "punctuation",
       "settings": {
         "foreground": "#8B7A6B"
       }
     },
     {
-      "name": "Constants - 🏺 Clay Beads",
+      "name": "Constants - Clay Beads",
       "scope": "constant",
       "settings": {
         "foreground": "#FF00FF"
       }
     },
     {
-      "name": "Constants Language - 💚 Jade Beads",
+      "name": "Constants Language - Jade Beads",
       "scope": "constant.language",
       "settings": {
         "foreground": "#00FF66",
@@ -210,28 +210,28 @@
       }
     },
     {
-      "name": "Support Functions - 💙 Indigo",
+      "name": "Support Functions - Neon Indigo",
       "scope": "support.function",
       "settings": {
         "foreground": "#00E5FF"
       }
     },
     {
-      "name": "Support Classes - 🔥 Crimson",
+      "name": "Support Classes - Electric Crimson",
       "scope": "support.class",
       "settings": {
         "foreground": "#FF6B35"
       }
     },
     {
-      "name": "Support Type - 💛 Gold",
+      "name": "Support Type - Golden",
       "scope": "support.type",
       "settings": {
         "foreground": "#FFD700"
       }
     },
     {
-      "name": "Invalid - 💔 Broken Thread",
+      "name": "Invalid - Broken Thread",
       "scope": "invalid",
       "settings": {
         "foreground": "#FF0000",
@@ -239,7 +239,7 @@
       }
     },
     {
-      "name": "Decorators - 🧵 Embroidery",
+      "name": "Decorators - Embroidery",
       "scope": "meta.decorator",
       "settings": {
         "foreground": "#6A8D92",
@@ -247,7 +247,7 @@
       }
     },
     {
-      "name": "Parameters - 🧶 Wool Yarn",
+      "name": "Parameters - Wool Yarn",
       "scope": "variable.parameter",
       "settings": {
         "foreground": "#D4C5B0",
@@ -255,14 +255,14 @@
       }
     },
     {
-      "name": "Regex - 💚 Knitting Pattern",
+      "name": "Regex - Knitting Pattern",
       "scope": "string.regexp",
       "settings": {
         "foreground": "#00FF66"
       }
     },
     {
-      "name": "Tag Names - 🔥 Loom Warp",
+      "name": "Tag Names - Loom Warp",
       "scope": "entity.name.tag",
       "settings": {
         "foreground": "#FF6B35",
@@ -270,7 +270,7 @@
       }
     },
     {
-      "name": "Attribute Names - 💛 Weft Pattern",
+      "name": "Attribute Names - Weft Pattern",
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#FFD700",
@@ -278,28 +278,28 @@
       }
     },
     {
-      "name": "CSS Properties - 🌾 Cotton",
+      "name": "CSS Properties - Cotton",
       "scope": "support.property",
       "settings": {
         "foreground": "#F0E6D8"
       }
     },
     {
-      "name": "CSS Values - 🧵 Dyed Cotton",
+      "name": "CSS Values - Dyed Cotton",
       "scope": "support.value",
       "settings": {
         "foreground": "#FF6B35"
       }
     },
     {
-      "name": "CSS Selectors - 💚 Pattern",
+      "name": "CSS Selectors - Pattern",
       "scope": "meta.selector",
       "settings": {
         "foreground": "#00FF66"
       }
     },
     {
-      "name": "Markdown Headers - 🔥 Loom",
+      "name": "Markdown Headers - Loom",
       "scope": "markup.heading",
       "settings": {
         "foreground": "#FF6B35",
@@ -307,14 +307,14 @@
       }
     },
     {
-      "name": "Markdown Lists - 💛 Yarn",
+      "name": "Markdown Lists - Yarn",
       "scope": "markup.list",
       "settings": {
         "foreground": "#FFD700"
       }
     },
     {
-      "name": "Markdown Bold - 💪 Thick Yarn",
+      "name": "Markdown Bold - Thick Yarn",
       "scope": "markup.bold",
       "settings": {
         "foreground": "#F0E6D8",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "name": "Markdown Italic - 🧵 Thin Yarn",
+      "name": "Markdown Italic - Thin Yarn",
       "scope": "markup.italic",
       "settings": {
         "foreground": "#D4C5B0",
@@ -330,21 +330,21 @@
       }
     },
     {
-      "name": "JSON Keys - 💛 Pattern",
+      "name": "JSON Keys - Pattern",
       "scope": "support.type.object",
       "settings": {
         "foreground": "#FFD700"
       }
     },
     {
-      "name": "JSON Values - 🌾 Fabric",
+      "name": "JSON Values - Fabric",
       "scope": "string.json",
       "settings": {
         "foreground": "#F0E6D8"
       }
     },
     {
-      "name": "Python Self - 🔥 Loom Self",
+      "name": "Python Self - Loom Self",
       "scope": "variable.parameter.function.language.python",
       "settings": {
         "foreground": "#FF6B35",
@@ -352,7 +352,7 @@
       }
     },
     {
-      "name": "Python Decorators - 🧵 Embroidery",
+      "name": "Python Decorators - Embroidery",
       "scope": "meta.function.decorator.python",
       "settings": {
         "foreground": "#6A8D92",
@@ -360,7 +360,7 @@
       }
     },
     {
-      "name": "Java Annotations - 🪡 Stitch",
+      "name": "Java Annotations - Stitch",
       "scope": "meta.annotation",
       "settings": {
         "foreground": "#6A8D92",
@@ -368,14 +368,14 @@
       }
     },
     {
-      "name": "HTML Attributes - 💛 Pattern",
+      "name": "HTML Attributes - Pattern",
       "scope": "entity.other.attribute-name.html",
       "settings": {
         "foreground": "#FFD700"
       }
     },
     {
-      "name": "HTML Tags - 🔥 Loom",
+      "name": "HTML Tags - Loom",
       "scope": "entity.name.tag.html",
       "settings": {
         "foreground": "#FF6B35",
@@ -383,21 +383,21 @@
       }
     },
     {
-      "name": "CSS Classes - 💚 Fabric",
+      "name": "CSS Classes - Fabric",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "foreground": "#00FF66"
       }
     },
     {
-      "name": "CSS IDs - 💙 Pattern",
+      "name": "CSS IDs - Pattern",
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
         "foreground": "#00E5FF"
       }
     },
     {
-      "name": "🎨 Textile - Fabric Texture",
+      "name": "Textile - Fabric Texture",
       "scope": "textile.fabric",
       "settings": {
         "foreground": "#F0E6D8",
@@ -405,7 +405,7 @@
       }
     },
     {
-      "name": "📊 Textile - Thread Count",
+      "name": "Textile - Thread Count",
       "scope": "textile.threadcount",
       "settings": {
         "foreground": "#FF6B35",
@@ -413,7 +413,7 @@
       }
     },
     {
-      "name": "📐 Textile - Knitting Pattern",
+      "name": "Textile - Knitting Pattern",
       "scope": "textile.pattern",
       "settings": {
         "foreground": "#FFD700",
@@ -421,7 +421,7 @@
       }
     },
     {
-      "name": "🔄 Textile - Spinning Wheel",
+      "name": "Textile - Spinning Wheel",
       "scope": "textile.spinning",
       "settings": {
         "foreground": "#00E5FF",
@@ -429,7 +429,7 @@
       }
     },
     {
-      "name": "✨ Special - Glowing Text",
+      "name": "Special - Glowing Text",
       "scope": "textile.glow",
       "settings": {
         "foreground": "#FF6B35",
